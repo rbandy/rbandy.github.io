@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-subtitle: Rileigh Bandy
 ---
 
 I am a first year PhD student in the department of computer science at the

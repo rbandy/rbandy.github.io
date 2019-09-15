@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-**Projects**
+**Previous Projects**
 - Global Optimization of Chemical Systems
     - Investigated Basin-Hopping and Minima Hopping combinations and modifications
     in order to accuratly and efficiently predict the ground state of Lennard-Jones systems
