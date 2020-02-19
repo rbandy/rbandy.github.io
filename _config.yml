@@ -20,7 +20,6 @@ description: Personal Website
 
 # List of links in the navigation bar
 navbar-links:
-  About: "aboutme"
   Research: "research"
   CV: "/img/rbandy_cv.pdf"
 
