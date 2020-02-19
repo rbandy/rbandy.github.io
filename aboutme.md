@@ -5,4 +5,5 @@ title: About
 
 I am a first year PhD student in the department of computer science at the
 University of Colorado, Boulder. My research area is uncertainy quantification, 
-and my advisor is [Rebecca Morrison](https://www.colorado.edu/cs/rebecca-morrison).
+and my advisors are [Rebecca Morrison](https://rebeccaem.github.io)
+and [Liz Bradley](https://www.cs.colorado.edu/~lizb/).
