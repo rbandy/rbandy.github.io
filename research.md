@@ -3,12 +3,18 @@ layout: page
 title: Research
 ---
 
+**Current Research**
+- Uncertainty Quantification and Validation
+    - Reducing the model error and observational error between observations from a detailed system and output from a low-fidelity model
+    - Building data-driven models that adhere to physical constraints
+    - Calibration and validation algorithms
+
 **Previous Projects**
 - Global Optimization of Chemical Systems
     - Investigated Basin-Hopping and Minima Hopping combinations and modifications
     in order to accuratly and efficiently predict the ground state of Lennard-Jones systems
     - [Software for Global Optimization](http://theory.cm.utexas.edu/tsase/global_optimizer.html)
-    - [Global Optimization Database](http://fri.ices.utexas.edu/~fri/fridb_GO/server.py)
+    - [Global Optimization Database](http://fri.oden.utexas.edu/~fri/fridb_GO/server.py)
 
 - Modeling Microstructure Evolution during Additive Manufacturing
     - Employed a data science approach and machine learning	to simulated additive manufacturing
