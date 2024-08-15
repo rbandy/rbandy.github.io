@@ -30,12 +30,12 @@ title: Research
     - Investigated Basin-Hopping and Minima Hopping combinations and modifications
     in order to accuratly and efficiently predict the ground state of Lennard-Jones systems
     - [Software for Global Optimization](http://theory.cm.utexas.edu/tsase/global_optimizer.html)
-    - [Global Optimization Database](http://fri.oden.utexas.edu/~fri/fridb_GO/server.py)
+    <!-- - [Global Optimization Database](http://fri.oden.utexas.edu/~fri/fridb_GO/server.py) -->
 
 - Modeling Microstructure Evolution during Additive Manufacturing
-    - Employed a data science approach and machine learning	to simulated additive manufacturing
+    - Employed a data science approach and machine learning	to simulated additive manufacturing.
 
-**Publications**
+<!-- **Publications**
 - R. Bandy and R. Morrison, Stochastic Model Corrections for Reduced Lotka-Volterra Models Exhibiting Mutual, Competitive, and Predatory Interactions, in Chaos: An Interdisciplinary Journal of Nonlinear Science, In revision.
 - R. Bandy and R. Morrison, Quantifying Model Form Uncertainty in Spring-Mass-Damper Systems, in
 [Conference Proceedings of the Society for Experimental Mechanics Series](https://sem.org//Files/events/41i/41i-Final-Program-WEB.pdf), Best Paper in Model Validation & Uncertainty Quantification.
@@ -54,4 +54,4 @@ Analysis of Model-Form Error for Highly Nonlinear Oscillatory Systems. MS 407.2 
 - Model Correction and Validation of Reduced Lotka-Volterra Models. MS 104 session presented at SIAM Conference on Uncertainty Quantification; April 14th, 2022; Atlanta, GA.
 - Model Correction and Validation of Reduced Lotka-Volterra Models. Poster session presented at SIAM Conference on Applications of Dynamical Systems; May 26th, 2021; Virtual.
 - Investigating Methodology for Global Optimization. Poster session presented at the AAAS Annual Meeting; February 18th, 2018; Austin, TX.
-- Investigating Methodology for Global Optimization. Poster session presented at: Institute of Pure and Applied Mathematics workshop on Optimization and Optimal Control for Complex Energy and Property Landscapes; October 2nd, 2017; Los Angeles, CA.
+- Investigating Methodology for Global Optimization. Poster session presented at: Institute of Pure and Applied Mathematics workshop on Optimization and Optimal Control for Complex Energy and Property Landscapes; October 2nd, 2017; Los Angeles, CA. -->
